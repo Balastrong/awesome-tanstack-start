@@ -47,6 +47,7 @@
 ## Videos
 
 - [An Early Glimpse of TanStack Start](https://www.netlify.com/compose/2024/an-early-glimpse-of-tanstack-start/)
+- [I Upgraded from Remix to TanStack Start](https://www.youtube.com/watch?v=mM6mbOzvTpY)
 - [Next Gen Fullstack React with TanStack](https://www.youtube.com/watch?v=4PymccvinIo)
 - [TanStack Start Tutorial](https://www.youtube.com/watch?v=PUf8DzCvrdc&list=PLOQjd5dsGSxIEKFg4dnSQ4zQkmTktfszp&index=1&pp=gAQBiAQB)
 - [Tanstack Start - A Client-Side First Full-Stack React Framework](https://gitnation.com/contents/tanstack-start-a-client-side-first-full-stack-react-framework)
