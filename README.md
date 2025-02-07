@@ -13,7 +13,6 @@
 - [Integrations](#integrations)
 - [Videos](#videos)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Official Resources
 
@@ -32,9 +31,9 @@
 
 ## Boilerplates
 
-- [TanStack Boilerplate](https://github.com/nekochan0122/tanstack-boilerplate/) - A fully type-safe boilerplate with a focus on UX and DX, complete with multiple examples.
-- [Tanstarter](https://github.com/dotnize/tanstarter) - Minimal TanStack Start template with Better Auth, Drizzle ORM, Tailwind CSS
-- [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter) - A blog/portfolio starter project built with TanStack Start.
+- [TanStack Boilerplate](https://github.com/nekochan0122/tanstack-boilerplate/) (1.85.10) - A fully type-safe boilerplate with a focus on UX and DX, complete with multiple examples.
+- [Tanstarter](https://github.com/dotnize/tanstarter) (1.99.7) - Minimal TanStack Start template with Better Auth, Drizzle ORM, Tailwind CSS
+- [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter) (1.99.8) - A blog/portfolio starter project built with TanStack Start.
 
 ## Integrations
 
