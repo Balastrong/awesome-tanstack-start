@@ -17,7 +17,8 @@
 ## Official Resources
 
 - [TanStack Discord Server](https://discord.com/invite/WrRKjPJ)
-- [Documentation](https://tanstack.com/start/latest)
+- [Start Documentation](https://tanstack.com/start/latest)
+- [Router Documentation](https://tanstack.com/router/latest)
 - [Examples](https://tanstack.com/start/latest/docs/framework/react/examples/start-basic)
 
 ## Apps
