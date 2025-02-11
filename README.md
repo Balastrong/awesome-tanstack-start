@@ -25,6 +25,7 @@
 
 - [Minesweeper](https://github.com/matthewdavi/minesweeper) - Playable minesweeper using URL state and 0 client side javascript. Built with TanStack Start.
 - [Tanstack.com](https://tanstack.com) - The official website for TanStack libraries.
+- [Trivius](https://github.com/nikolovlazar/trivius) - A trivia app for in-person meetups.
 
 ## Articles
 
@@ -52,6 +53,7 @@
 - [TanStack Start Tutorial](https://www.youtube.com/watch?v=PUf8DzCvrdc&list=PLOQjd5dsGSxIEKFg4dnSQ4zQkmTktfszp&index=1&pp=gAQBiAQB)
 - [Tanstack Start - A Client-Side First Full-Stack React Framework](https://gitnation.com/contents/tanstack-start-a-client-side-first-full-stack-react-framework)
 - [The Journey To Making A New Framework: TanStack Start with Tanner Linsley](https://www.youtube.com/watch?v=qVnzbeo6rH0)
+- [Next.js-like routing in TanStack Start](https://youtu.be/X7W8YOV1klo)
 
 ## Contributing
 
