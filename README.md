@@ -9,7 +9,7 @@
 - [Official Resources](#official-resources)
 - [Apps](#apps)
 - [Articles](#articles)
-- [Boilerplates](#boilerplates)
+- [Boilerplates/Starters](#boilerplatesstarters)
 - [Integrations](#integrations)
 - [Videos](#videos)
 - [Contributing](#contributing)
@@ -31,7 +31,7 @@
 
 - [Introducing TanStack Start](https://frontendmasters.com/blog/introducing-tanstack-start/)
 
-## Boilerplates
+## Boilerplates/Starters
 
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/nekochan0122/tanstack-boilerplate/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [TanStack Boilerplate](https://github.com/nekochan0122/tanstack-boilerplate/): A fully type-safe boilerplate with a focus on UX and DX, complete with multiple examples.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ally-ahmed/tss-blog-starter/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter): A blog/portfolio starter project built with TanStack Start.
