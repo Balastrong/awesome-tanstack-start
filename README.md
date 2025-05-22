@@ -33,9 +33,10 @@
 
 ## Boilerplates
 
-- [TanStack Boilerplate](https://github.com/nekochan0122/tanstack-boilerplate/) (1.85.10) - A fully type-safe boilerplate with a focus on UX and DX, complete with multiple examples.
-- [Tanstarter](https://github.com/dotnize/tanstarter) (1.112.3) - Minimal TanStack Start template with Better Auth, Drizzle ORM, Tailwind CSS
-- [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter) (1.107.0) - A blog/portfolio starter project built with TanStack Start.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/nekochan0122/tanstack-boilerplate/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [TanStack Boilerplate](https://github.com/nekochan0122/tanstack-boilerplate/): A fully type-safe boilerplate with a focus on UX and DX, complete with multiple examples.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ally-ahmed/tss-blog-starter/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter): A blog/portfolio starter project built with TanStack Start.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/dotnize/react-tanstarter/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstarter](https://github.com/dotnize/react-tanstarter): Minimal TanStack Start template with Better Auth, Drizzle ORM, Tailwind CSS
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/CarlosZiegler/fullstack-start-template/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template): A solid foundation for building modern web applications using a curated stack of technologies focused on developer experience, performance, and type safety.
 
 ## Integrations
 
