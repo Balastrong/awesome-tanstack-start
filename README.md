@@ -23,9 +23,11 @@
 
 ## Apps
 
-- [Minesweeper](https://github.com/matthewdavi/minesweeper) - Playable minesweeper using URL state and 0 client side javascript. Built with TanStack Start.
-- [Tanstack.com](https://tanstack.com) - The official website for TanStack libraries.
-- [Trivius](https://github.com/nikolovlazar/trivius) - A trivia app for in-person meetups.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Balastrong/confhub/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [ConfHub](https://github.com/Balastrong/confhub) (WIP): Discover the best tech conferences, meetups, and workshops happening around the world
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/matthewdavi/minesweeper/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [Minesweeper](https://github.com/matthewdavi/minesweeper): Playable minesweeper using URL state and 0 client side javascript. Built with TanStack Start.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/screenshothis/screenshothis.com/refs/heads/main/apps/web/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Screenshothis](https://github.com/screenshothis/screenshothis.com): Simple & powerful API to automate website screenshots and integrate them into your apps.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/TanStack/tanstack.com/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstack.com](https://github.com/TanStack/tanstack.com): The official website for TanStack libraries.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/nikolovlazar/trivius/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [Trivius](https://github.com/nikolovlazar/trivius): A trivia app for in-person meetups.
 
 ## Articles
 
@@ -40,11 +42,11 @@
 
 ## Integrations
 
-- [better-auth](https://www.better-auth.com/docs/integrations/tanstack) - The most comprehensive authentication framework for TypeScript
-- [Clerk](https://clerk.com/docs/references/tanstack-start/overview) - The most comprehensive User Management Platform
-- [Convex](https://docs.convex.dev/client/react/tanstack-start/) - Open Source reactive database for web app developers
-- [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/) - Application monitoring software
-- [uploadthing](https://docs.uploadthing.com/getting-started/tanstack-start) - File uploads for modern web devs
+- [better-auth](https://www.better-auth.com/docs/integrations/tanstack): The most comprehensive authentication framework for TypeScript
+- [Clerk](https://clerk.com/docs/references/tanstack-start/overview): The most comprehensive User Management Platform
+- [Convex](https://docs.convex.dev/client/react/tanstack-start/): Open Source reactive database for web app developers
+- [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/): Application monitoring software
+- [uploadthing](https://docs.uploadthing.com/getting-started/tanstack-start): File uploads for modern web devs
 
 ## Videos
 
