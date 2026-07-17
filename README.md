@@ -49,7 +49,7 @@
 
 - [better-auth](https://www.better-auth.com/docs/integrations/tanstack): The most comprehensive authentication framework for TypeScript
 - [browser-eco](https://github.com/instructa/browser-echo): Stream browser logs to terminal, zero setup, perfect for Ai Agents
-- [Clerk](https://clerk.com/docs/references/tanstack-start/overview): The most comprehensive User Management Platform
+- [Clerk](https://clerk.com/docs/tanstack-react-start/getting-started/quickstart): The most comprehensive User Management Platform
 - [Convex](https://docs.convex.dev/client/react/tanstack-start/): Open Source reactive database for web app developers
 - [Netlify](https://docs.netlify.com/build/frameworks/framework-setup-guides/tanstack-start/): Deploy any modern frontend stack, from marketing sites to AI apps.
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/): Application monitoring software
