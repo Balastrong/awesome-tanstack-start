@@ -38,7 +38,7 @@
 - [TanStack Start: light, dark, and system theme without flickers](https://leonardomontini.dev/tanstack-start-theme/)
 
 ## Boilerplates/Starters
-
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/azizali/betterstarter.package/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [BetterStarter](https://betterstarter.dev): The cleanest path from idea to launch. A premium TanStack Start foundation featuring Better-Auth, Drizzle ORM, Plunk Email, Posthog, and Stripe. Optimized for developer experience with a ready-to-use Dashboard and AEO-ready Blog. Best-in-class patterns, zero friction.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ally-ahmed/tss-blog-starter/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [TSS Blog Starter](https://github.com/ally-ahmed/tss-blog-starter): A blog/portfolio starter project built with TanStack Start.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/dotnize/react-tanstarter/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstarter](https://github.com/dotnize/react-tanstarter): Minimal TanStack Start template with Better Auth, Drizzle ORM, Tailwind CSS
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/felipestanzani/tanstack-start-ca/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [tanstack-start-ca](https://github.com/felipestanzani/tanstack-start-ca): A sweet starter template for TanStack Start.
