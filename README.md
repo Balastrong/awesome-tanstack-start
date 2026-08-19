@@ -12,6 +12,7 @@
 - [Boilerplates/Starters](#boilerplatesstarters)
 - [Integrations](#integrations)
 - [Plugins](#plugins)
+- [Related](#related)
 - [Videos](#videos)
 - [Contributing](#contributing)
 
@@ -59,6 +60,10 @@
 ## Plugins
 
 - [tanstack-router-sitemap](https://www.npmjs.com/package/tanstack-router-sitemap): A plugin for generating sitemaps for your TanStack Router (and Start) routes.
+
+## Related
+
+- [speedy-router](https://github.com/anonrig/router): The TanStack Router API rebuilt for faster navigations and SSR.
 
 ## Videos
 
