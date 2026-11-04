@@ -56,6 +56,7 @@
 - [Netlify](https://docs.netlify.com/build/frameworks/framework-setup-guides/tanstack-start/): Deploy any modern frontend stack, from marketing sites to AI apps.
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/): Application monitoring software
 - [Strapi](https://strapi.io/integrations/tanstack): Open-source headless CMS
+- [tanstack-fetch](https://mohamadgarmabi.github.io/tanstack-fetch/blog/tanstack-start-router-tanstack-fetch): Typed fetch client for TanStack Query with Start/Router loaders, SSR cookie forwarding and a tRPC link
 - [uploadthing](https://docs.uploadthing.com/getting-started/tanstack-start): File uploads for modern web devs
 
 ## Plugins
