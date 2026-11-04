@@ -26,6 +26,7 @@
 
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Balastrong/confhub/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [ConfHub](https://github.com/Balastrong/confhub): Discover the best tech conferences, meetups, and workshops happening around the world
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/specfy/getstack/refs/heads/main/apps/frontend/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [GetStack](https://github.com/specfy/getstack): Explore the most popular technologies and repositories, refreshed every week.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mohamadgarmabi/life-reminder/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Life Reminder](https://github.com/mohamadgarmabi/life-reminder): Local-first Persian (RTL, Jalali) PWA for installments, plant watering and recurring reminders, with Web Push notifications.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/matthewdavi/minesweeper/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [Minesweeper](https://github.com/matthewdavi/minesweeper): Playable minesweeper using URL state and 0 client side javascript. Built with TanStack Start.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/FaZeRs/portfolio/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Portfolio (Nauris)](https://github.com/FaZeRs/portfolio): A personal dev portfolio.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/screenshothis/screenshothis.com/refs/heads/main/apps/web/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Screenshothis](https://github.com/screenshothis/screenshothis.com): Simple & powerful API to automate website screenshots and integrate them into your apps.
@@ -36,6 +37,7 @@
 
 - [Introducing TanStack Start](https://frontendmasters.com/blog/introducing-tanstack-start/)
 - [TanStack Start: light, dark, and system theme without flickers](https://leonardomontini.dev/tanstack-start-theme/)
+- [TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns](https://mohamadgarmabi.github.io/tanstack-fetch/blog/tanstack-start-1-0-transtack-fetch-6-real-world-patterns)
 
 ## Boilerplates/Starters
 
