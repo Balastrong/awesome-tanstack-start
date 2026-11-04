@@ -46,6 +46,8 @@
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/felipestanzani/tanstack-start-ca/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [tanstack-start-ca](https://github.com/felipestanzani/tanstack-start-ca): A sweet starter template for TanStack Start.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/CarlosZiegler/fullstack-start-template/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template): A solid foundation for building modern web applications using a curated stack of technologies focused on developer experience, performance, and type safety.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thelordoftheboards/tanstart-barren/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstart Barren](https://github.com/thelordoftheboards/tanstart-barren): Boilerplate for TanStack Start - Postgres, Drizzle, Better Auth, TanStack Query, Shadcn, Base UI, Tailwind CSS.
+- [Supastack](https://supastack.dev/?ref=gh_tanstack): SaaS kit with a dual web engine (Next.js 16 + TanStack Start) plus Expo mobile and Tauri desktop apps in one Turborepo — auth, 8+ payment gateways, AI, i18n.
+
 
 ## Integrations
 
