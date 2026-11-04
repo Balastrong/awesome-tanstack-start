@@ -60,6 +60,7 @@
 
 ## Plugins
 
+- [start-seo-kit](https://github.com/amjadiqbal/start-seo-kit): Typed `head()` meta tags, dynamic sitemap and robots.txt server routes, JSON-LD (including e-commerce Product schema) and an optional OG image route for TanStack Start.
 - [tanstack-router-sitemap](https://www.npmjs.com/package/tanstack-router-sitemap): A plugin for generating sitemaps for your TanStack Router (and Start) routes.
 
 ## Videos
