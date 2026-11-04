@@ -55,6 +55,7 @@
 - [Convex](https://docs.convex.dev/client/react/tanstack-start/): Open Source reactive database for web app developers
 - [Netlify](https://docs.netlify.com/build/frameworks/framework-setup-guides/tanstack-start/): Deploy any modern frontend stack, from marketing sites to AI apps.
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/): Application monitoring software
+- [shopify-app-tanstack-start](https://github.com/amjadiqbal/shopify-app-tanstack-start): Build embedded Shopify apps on TanStack Start: session tokens and token exchange, webhooks, app proxy and billing (community package).
 - [Strapi](https://strapi.io/integrations/tanstack): Open-source headless CMS
 - [uploadthing](https://docs.uploadthing.com/getting-started/tanstack-start): File uploads for modern web devs
 
