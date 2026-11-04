@@ -32,6 +32,7 @@
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/screenshothis/screenshothis.com/refs/heads/main/apps/web/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Screenshothis](https://github.com/screenshothis/screenshothis.com): Simple & powerful API to automate website screenshots and integrate them into your apps.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/TanStack/tanstack.com/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstack.com](https://github.com/TanStack/tanstack.com): The official website for TanStack libraries.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/nikolovlazar/trivius/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Fstart&label=start&color=red) [Trivius](https://github.com/nikolovlazar/trivius): A trivia app for in-person meetups.
+- ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Tailwind-Admin/free-tailwind-admin-dashboard-template/refs/heads/main/tailwind-admin-tanstack-start/package/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start&color=red): [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template): Open-Source React Tailwind Admin Dashboard Template with Shadcn.
 
 ## Articles
 
