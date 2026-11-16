@@ -38,6 +38,7 @@
 - [Introducing TanStack Start](https://frontendmasters.com/blog/introducing-tanstack-start/)
 - [TanStack Start: light, dark, and system theme without flickers](https://leonardomontini.dev/tanstack-start-theme/)
 - [TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns](https://mohamadgarmabi.github.io/tanstack-fetch/blog/tanstack-start-1-0-transtack-fetch-6-real-world-patterns)
+- [How to export a Framer site to TanStack Start](https://deframer.co/blog/export-a-framer-site-to-tanstack-start)
 
 ## Boilerplates/Starters
 
