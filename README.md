@@ -54,6 +54,7 @@
 - [Clerk](https://clerk.com/docs/tanstack-react-start/getting-started/quickstart): The most comprehensive User Management Platform
 - [Convex](https://docs.convex.dev/client/react/tanstack-start/): Open Source reactive database for web app developers
 - [Netlify](https://docs.netlify.com/build/frameworks/framework-setup-guides/tanstack-start/): Deploy any modern frontend stack, from marketing sites to AI apps.
+- [OpenReceive](https://openreceive.org/integrations/tanstack-start): Open-source Bitcoin Lightning checkout, paid straight to your own wallet
 - [Reylo](https://github.com/reylosql/reylo): Import .sql files into TypeScript with types inferred from your database, through the Vite plugin
 - [Sentry](https://docs.sentry.io/platforms/javascript/guides/react/features/tanstack-router/): Application monitoring software
 - [Strapi](https://strapi.io/integrations/tanstack): Open-source headless CMS
