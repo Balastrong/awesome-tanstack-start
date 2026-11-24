@@ -46,6 +46,7 @@
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/felipestanzani/tanstack-start-ca/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [tanstack-start-ca](https://github.com/felipestanzani/tanstack-start-ca): A sweet starter template for TanStack Start.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/CarlosZiegler/fullstack-start-template/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template): A solid foundation for building modern web applications using a curated stack of technologies focused on developer experience, performance, and type safety.
 - ![Start Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thelordoftheboards/tanstart-barren/refs/heads/main/package.json&query=%24.dependencies.%40tanstack%2Freact-start&label=start) [Tanstart Barren](https://github.com/thelordoftheboards/tanstart-barren): Boilerplate for TanStack Start - Postgres, Drizzle, Better Auth, TanStack Query, Shadcn, Base UI, Tailwind CSS.
+- [SaaScaffold](https://saascaffold.com/): Commercial TypeScript SaaS starter for Cloudflare Workers (TanStack Start + Drizzle D1/PostgreSQL) with 40 coding-agent runbooks, multi-provider payments, credit ledger, AI jobs, and an admin center.
 
 ## Integrations
 
